@@ -1,6 +1,6 @@
 # 📊 Proyecto Final: Cadenas de Markov
 
-Este proyecto forma parte del curso *Estadística Aplicada a la Teoría de Decisiones II* de la Maestría en Investigación de Operaciones en la Universidad Galileo. El objetivo principal es aplicar el conocimiento adquirido sobre las cadenas de Markov para analizar diferentes contextos de toma de decisiones bajo incertidumbre.
+Este proyecto forma parte del curso *Estadística Aplicada a la Teoría de Decisiones II* de la Maestría en Investigación de Operaciones de la Universidad Galileo. El objetivo principal es aplicar el conocimiento adquirido sobre las cadenas de Markov para analizar diferentes contextos de toma de decisiones bajo incertidumbre.
 
 El proyecto incluye:
 - Un marco teórico detallado sobre el funcionamiento de las cadenas de Markov.
@@ -13,13 +13,12 @@ Todo el desarrollo técnico, matemático y computacional se encuentra documentad
 
 ---
 
-## 👤 Información del autor
+## 👤 Información
 
-- **Nombre:** Jonathan Amado  
-- **Carnet:** 14002285  
-- **Curso:** Estadística Aplicada a la Teoría de Decisiones II  
-- **Universidad:** Universidad Galileo  
-- **Carrera:** Maestría en Investigación de Operaciones  
+- **Nombre:** Jonathan Amado **14002285**
+Estadística Aplicada a la Teoría de Decisiones II  
+Universidad Galileo  
+Maestría en Investigación de Operaciones  
 
 ---
 
