@@ -15,7 +15,7 @@ Todo el desarrollo técnico, matemático y computacional se encuentra documentad
 
 ## 👤 Información
 
-- **Nombre:** Jonathan Amado **14002285**
+**Jonathan Amado 14002285**  
 Estadística Aplicada a la Teoría de Decisiones II  
 Universidad Galileo  
 Maestría en Investigación de Operaciones  
