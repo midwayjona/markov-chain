@@ -1,4 +1,4 @@
-# 📊 Proyecto Final: Cadenas de Markov
+# Proyecto Final: Cadenas de Markov
 
 Este proyecto forma parte del curso *Estadística Aplicada a la Teoría de Decisiones II* de la Maestría en Investigación de Operaciones de la Universidad Galileo. El objetivo principal es aplicar el conocimiento adquirido sobre las cadenas de Markov para analizar diferentes contextos de toma de decisiones bajo incertidumbre.
 
@@ -11,7 +11,6 @@ Todo el desarrollo técnico, matemático y computacional se encuentra documentad
 
 🔗 [Ver notebook principal: `main.ipynb`](main.ipynb)
 
----
 
 ## 👤 Información
 
@@ -20,9 +19,8 @@ Estadística Aplicada a la Teoría de Decisiones II
 Universidad Galileo  
 Maestría en Investigación de Operaciones  
 
----
 
-## 📎 Documentos complementarios
+## Documentos
 
 - [📄 Instrucciones del Proyecto Final (PDF)](Proyecto_Cadenas_de_Markov.pdf)
 
